@@ -1,0 +1,1312 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Dead Souls",
+      "author": "G\u00f3gol",
+      "isbn": "",
+      "publisher_house": null,
+      "year": null,
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 2,
+      "title": "Dead souls",
+      "author": "",
+      "isbn": "",
+      "publisher_house": null,
+      "year": null,
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 3,
+      "title": "Obras Completas, V. Historia 2 Liberalismo mexicano, I: Los or\u00edgenes.",
+      "author": "Jes\u00fas Reyes Heroles ",
+      "isbn": "9789681685546",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "13 Junio 2008",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 4,
+      "title": "Obras completas. VI. Historia 3 Liberalismo mexicano, II: La sociedad fluctuante",
+      "author": "Jes\u00fas Reyes Heroles",
+      "isbn": "9789681685553",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2008",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 5,
+      "title": "Obras completas, VII. Historia 4 Liberalismo mexicano, III: La integraci\u00f3n de las ideas",
+      "author": "Jes\u00fas Reyes Heroles",
+      "isbn": "9789681685560",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2008",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 6,
+      "title": "Colecci\u00f3n papeles de Kierkegaard: Diarios. Vol. VI, 1844",
+      "author": "Soren, Kierkegaard",
+      "isbn": "9786074176841",
+      "publisher_house": "Universidad Iberoamericana ",
+      "year": "2020",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 7,
+      "title": "El Busc\u00f3n ",
+      "author": "de Quevedo, Francisco",
+      "isbn": "9788471663412",
+      "publisher_house": "EDAF",
+      "year": "2004",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 8,
+      "title": "Antolog\u00eda Poetica Comentada ",
+      "author": "de Quevedo, Francisco",
+      "isbn": "9788441414730",
+      "publisher_house": "EDAF",
+      "year": "2004",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 9,
+      "title": "Noticias del Imperio ",
+      "author": "Del Paso, Fernando",
+      "isbn": "9786071669902",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2020",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 10,
+      "title": "Am\u00e9rico Vespucio ",
+      "author": "Zweig, Stefan ",
+      "isbn": "9788417346508",
+      "publisher_house": "Acantilado ",
+      "year": "2019",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 11,
+      "title": "2666",
+      "author": "Bola\u00f1o, Roberto",
+      "isbn": "9786073147576",
+      "publisher_house": "Alfaguara ",
+      "year": "2016",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 12,
+      "title": "Cuentos Completos",
+      "author": "Bola\u00f1o, Roberto",
+      "isbn": "9786073173674",
+      "publisher_house": "Alfaguara ",
+      "year": "2014",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 13,
+      "title": "Amor L\u00edquido ",
+      "author": "Bauman, Zygmunt ",
+      "isbn": "9789681683726",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 14,
+      "title": "Popol Vuh ",
+      "author": "Recions, Adrian",
+      "isbn": "9789681603274",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 15,
+      "title": "Canek",
+      "author": "Abreu Gomez, Ermilio ",
+      "isbn": "9786071664419",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2019",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 16,
+      "title": "Dos Teor\u00edas de la Moralidad ",
+      "author": "Hampshire, Stuart ",
+      "isbn": "9786071621696",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2014",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 17,
+      "title": "El libro de los libros de Chilam Balam ",
+      "author": "Barrera V\u00e1zquez, Alfredo. Rend\u00f3n, Silvia. ",
+      "isbn": "9789681609771",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "1963",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 18,
+      "title": "Historia Verdadera de la Conquista de la Nueva Espa\u00f1a, Vol. I & II",
+      "author": "D\u00edaz Castillo, Bernal",
+      "isbn": "9786079662011",
+      "publisher_house": "Academia Mexicana de la Lengua",
+      "year": "2014",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 19,
+      "title": "Los mercaderes y el capitalismo en la ciudad de M\u00e9xico: 1759 - 1778",
+      "author": "Bochart De Monero, Christina Renate",
+      "isbn": "9789681616373",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "1984",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 20,
+      "title": "La N\u00e1usea ",
+      "author": "Jean- Paul Sartre ",
+      "isbn": "9789706273857",
+      "publisher_house": "Epoca ",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 21,
+      "title": "El Muro",
+      "author": "Jean-Paul Sartre ",
+      "isbn": "9789706273772",
+      "publisher_house": "Epoca ",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 22,
+      "title": "Guerra y Paz",
+      "author": "Leon Tolstoi",
+      "isbn": "9788417079253",
+      "publisher_house": "Pluton Ediciones ",
+      "year": "2019",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 23,
+      "title": "Por el ojo de una Aguja",
+      "author": "Brown, Peter ",
+      "isbn": "9788416748143",
+      "publisher_house": "Acantilado ",
+      "year": "2016",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 24,
+      "title": "Anna Karenina",
+      "author": "Leon Tolstoi ",
+      "isbn": "9788413624037",
+      "publisher_house": "Alianza editorial ",
+      "year": "2021",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 25,
+      "title": "El mundo de Atenas",
+      "author": "Canfora, Luciano ",
+      "isbn": "9788433963635",
+      "publisher_house": "Anagrama",
+      "year": "2018",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 26,
+      "title": "La \u00faltima frontera",
+      "author": "Fast, Howard",
+      "isbn": "9786071684271",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2024",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 27,
+      "title": "El Camino de la Vida",
+      "author": "Leon Tolstoi",
+      "isbn": "9788417902032",
+      "publisher_house": "Acantilado ",
+      "year": "2019",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 28,
+      "title": "Jhonny el Tuerto: Una historia de la Independencia Estadounidense ",
+      "author": "Charyn, Jerome ",
+      "isbn": "9786071669551",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2020",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 29,
+      "title": "La Democracia en Am\u00e9rica",
+      "author": "De Tocqueville, Alexis",
+      "isbn": "9786071665881",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2020",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 30,
+      "title": "Soluciones a los problemas de la deuda de los pa\u00edses en desarrollo ",
+      "author": "Dornbusch, Ruudiger, Jhon H. Makin y David Zlowe (comps.)",
+      "isbn": "9789681634483",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2000",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 31,
+      "title": "Historia de la biogeograf\u00eda, I. El periodo preevolutivo",
+      "author": "Papavero, Nelson, Dante Martins Teixeira, Jorge Llorente Bousquets y Alfredo Bueno",
+      "isbn": "9789681673192",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2004",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 32,
+      "title": "Atlas Historico Mundial (I): De los Origenes a la Revoluci\u00f3n Francesa",
+      "author": "Kinder, Hermann ",
+      "isbn": "9788446024583",
+      "publisher_house": "AKAL",
+      "year": "2006",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 33,
+      "title": "El Desafio de la Austeridad. Pobreza y Desigualdad en la Am\u00e9rica Latina",
+      "author": "Lustig, Nora",
+      "isbn": "9789681651633",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "1999",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 34,
+      "title": "Vlady de la Revoluci\u00f3n al Renacimiento",
+      "author": "RENS JEAN GUY",
+      "isbn": "9789682326035",
+      "publisher_house": "CONACULTA ",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 35,
+      "title": "Los Miserables ",
+      "author": "Victor Hugo",
+      "isbn": "9788494662065",
+      "publisher_house": "Biblok ",
+      "year": "2022",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 36,
+      "title": "El existencialismo es un humanismo",
+      "author": "Jean-Paul Sartre ",
+      "isbn": "9786078473472",
+      "publisher_house": "Epoca ",
+      "year": "2013",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 37,
+      "title": "Filosf\u00eda de la historia ",
+      "author": "Kant, Immanuel ",
+      "isbn": "9786071630094",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2015",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 38,
+      "title": "Conversaciones con Goethe ",
+      "author": "Eckermann, Johann Peter ",
+      "isbn": "9788496489295",
+      "publisher_house": "Acantilado ",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 39,
+      "title": "Mar\u00eda Antonieta ",
+      "author": "Zweig, Stefan ",
+      "isbn": "9788415277491",
+      "publisher_house": "Acantilado ",
+      "year": "2012",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 40,
+      "title": "Las Ciencias de la Cultura ",
+      "author": "Cassirer, Ernst",
+      "isbn": "9786071622006",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2014",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 41,
+      "title": "Noches Blancas",
+      "author": "Dostoievski, Fi\u00f3dor",
+      "isbn": "9788416440047",
+      "publisher_house": "N\u00f3rdica Libros",
+      "year": "2015",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 42,
+      "title": "BUCOLICAS",
+      "author": "Virgilio ",
+      "isbn": "9788475179247",
+      "publisher_house": "Ediciones Hiperi\u00f3n ",
+      "year": "2008",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 43,
+      "title": "Presencias Reales ",
+      "author": "Steiner, George",
+      "isbn": "9788416964499",
+      "publisher_house": "SIRUELA ",
+      "year": "2017",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 44,
+      "title": "El Idiota",
+      "author": "Dostoievski, Fi\u00f3dor",
+      "isbn": "9788416964499",
+      "publisher_house": "CATEDRA",
+      "year": "2016",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 45,
+      "title": "Los Or\u00edgenes del Totalitarismo ",
+      "author": "Arendt, Hannah",
+      "isbn": "9788420647715",
+      "publisher_house": "Alianza Editorial ",
+      "year": "2016",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 46,
+      "title": "El Misterio de la Orden de los Cosmopolitas",
+      "author": "Wieland, Christoph Mart\u00edn",
+      "isbn": "9786073089784",
+      "publisher_house": "UNAM",
+      "year": "2024",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 47,
+      "title": "Obras escogidas de Lord Byron ",
+      "author": "Lord Byron ",
+      "isbn": "9788476729328",
+      "publisher_house": "AEON ",
+      "year": "1999",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 48,
+      "title": "La Revoluci\u00f3n Rusa",
+      "author": "Figes, Orlando",
+      "isbn": "9788430624249",
+      "publisher_house": "TAURUS",
+      "year": "2022",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 49,
+      "title": "Rey Lear",
+      "author": "Shakespeare, William",
+      "isbn": "9788437605968",
+      "publisher_house": "CATEDRA",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 50,
+      "title": "Tercer Reich y los Jud\u00edos, el 1933-1939",
+      "author": "Friedlander, Saul",
+      "isbn": "9788416495535",
+      "publisher_house": "GALAXIA GUTENBERG ",
+      "year": "2011",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 51,
+      "title": "Lecciones sobre la Historia de la Filosof\u00eda, I ",
+      "author": "G. W. F. Hegel ",
+      "isbn": "9789681603052",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "1955",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 52,
+      "title": "Filosof\u00eda de la Liberaci\u00f3n ",
+      "author": "Dussel, Enrique ",
+      "isbn": "9786071605344",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2011",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 53,
+      "title": "Filosof\u00eda de las formas simb\u00f3licas, I: El lenguaje ",
+      "author": "Cassirer, Ernst ",
+      "isbn": "9786071635235",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2016",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 54,
+      "title": "Alejandro Magno",
+      "author": "Lane Fox, Robin",
+      "isbn": "9788496834255",
+      "publisher_house": "Acantilado ",
+      "year": "2007",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 55,
+      "title": "Las desventajas del Joven Werther",
+      "author": "Goethe, Johann Wolfgang Von",
+      "isbn": "9788437604077",
+      "publisher_house": "CATEDRA",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 56,
+      "title": "Metamorfosis ",
+      "author": "Ovidio ",
+      "isbn": "9788437613819",
+      "publisher_house": "CATEDRA ",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 57,
+      "title": "Fausto",
+      "author": "Goethe ",
+      "isbn": "9788437606774",
+      "publisher_house": "CATEDRA ",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 58,
+      "title": "Cartas a un joven Poeta",
+      "author": "Rilke, Rainer Maria ",
+      "isbn": "9788446041108",
+      "publisher_house": "AKAL",
+      "year": "2023",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 59,
+      "title": "Crimen y Castigo ",
+      "author": "Dostoievski, Fi\u00f3dor",
+      "isbn": "9788437614038",
+      "publisher_house": "CATEDRA",
+      "year": "2006",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 60,
+      "title": "La Biblioteca perdida",
+      "author": "Canfora, Luciano",
+      "isbn": "9786071675705",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2022",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 61,
+      "title": "Mes\u00edas, cruzadas, utop\u00edas: El jude-cristianismo en las sociedades ib\u00e9ricas ",
+      "author": "Lafaye, Jacques",
+      "isbn": "9789681653286",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2024",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 62,
+      "title": "Las Cruzadas vistas por los \u00c1rabes",
+      "author": "Maalouf, Amin ",
+      "isbn": "9788420609003",
+      "publisher_house": "Alianza Editorial ",
+      "year": "2012",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 63,
+      "title": "Cr\u00edtica de la raz\u00f3n pr\u00e1ctica",
+      "author": "Kant, Immanuel ",
+      "isbn": "9789681673802",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2005",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 64,
+      "title": "Observaciones sobre el sentimiento de lo Bello y lo Sublime",
+      "author": "Kant, Immanuel ",
+      "isbn": "9789681672256",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE)",
+      "year": "2019",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 65,
+      "title": "Guerra y Paz Vol. I & II",
+      "author": "Leon Tolstoi ",
+      "isbn": "9788490657348",
+      "publisher_house": "Alba ",
+      "year": "2021",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 66,
+      "title": "Papado, cruzadas y \u00f3rdenes militares. Siglos XI-XIII",
+      "author": "Garcia Guijaro, Luis",
+      "isbn": "9788437613772",
+      "publisher_house": "CATEDRA",
+      "year": "1995",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 67,
+      "title": "Goethe y el despojo. Los costos del progreso, el Sur, la incertidumbre, los demonios...",
+      "author": "Bartra, Armando ",
+      "isbn": "9786071683809",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2024",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 68,
+      "title": "El Capital en el siglo XXI ",
+      "author": "Piketty, Thomas",
+      "isbn": "9786071627551",
+      "publisher_house": "Fondo de Cultura Econ\u00f3mica (FCE) ",
+      "year": "2015",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 69,
+      "title": "Los Aristocratas 2",
+      "author": "Tacconi Ferdinando ",
+      "isbn": "9788418309090",
+      "publisher_house": "Ponent Mon Comics",
+      "year": "2021",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 70,
+      "title": "Una mirada documental ",
+      "author": "Moya, Rodrigo ",
+      "isbn": "9786074090352",
+      "publisher_house": "La Jornada ",
+      "year": "2011",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 71,
+      "title": "El Comisario Spada ",
+      "author": "Gianni de Luca, GianLuigi Gonano ",
+      "isbn": "9788418309434",
+      "publisher_house": "Claves de Gesti\u00f3n ",
+      "year": "2023",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 72,
+      "title": "Garoden",
+      "author": "Jiro Taniguchi",
+      "isbn": "9788417318840",
+      "publisher_house": "Cyan Proyectos Editoriales",
+      "year": "2020",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 73,
+      "title": "El Cid. Libro 2: Las Cortes de Le\u00f3n",
+      "author": "Hernandez Palacios, A. ",
+      "isbn": "9788485631124",
+      "publisher_house": "Ikusager Ediciones ",
+      "year": "1982",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 74,
+      "title": "Robin Hood II",
+      "author": "Angus, Donald",
+      "isbn": "9788435062305",
+      "publisher_house": "EDHASA ",
+      "year": "2011",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 75,
+      "title": "Robin Hood, el proscrito ",
+      "author": "Angus, Donald ",
+      "isbn": "9788435062008",
+      "publisher_house": "ADHASA ",
+      "year": "2010",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 76,
+      "title": "El Hombre del rey. Robin Hood III",
+      "author": "Angus, Donald",
+      "isbn": "9788435062312",
+      "publisher_house": "EDHASA ",
+      "year": "2012",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 77,
+      "title": "EL retrato de Jorge Cuesta ",
+      "author": "Volkow, Veronica",
+      "isbn": "9786070301728",
+      "publisher_house": "Siglo XXI ",
+      "year": "2010",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 78,
+      "title": "Narraciones Completas ",
+      "author": "Alexander Pushkin ",
+      "isbn": "9788489846661",
+      "publisher_house": "Alba ",
+      "year": "2003",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 79,
+      "title": "Memorias del Subsuelo ",
+      "author": "Dostoievski, Fi\u00f3dor ",
+      "isbn": "9788437620329",
+      "publisher_house": "CATEDRA ",
+      "year": "2006",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 80,
+      "title": "El Pensamiento Aleman de Kant a Heidegger. Tomo I. 2da. ED.",
+      "author": "Colomer, Eusebi ",
+      "isbn": "9788425415197",
+      "publisher_house": "Herder Editorial ",
+      "year": "2006",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 81,
+      "title": "El Idealismo: FICHTE, SCHELLING Y HEGEL. 2da. ED. TOMO II",
+      "author": "Colomer, Eusebi",
+      "isbn": "9788425419027",
+      "publisher_house": "Herder Editorial ",
+      "year": "2006",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 82,
+      "title": "Vidas sujetas a escrutinio: De Socrates a Nietzsche",
+      "author": "Miller, James",
+      "isbn": "9789569043369",
+      "publisher_house": "Tajamar Ediciones ",
+      "year": "2019",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 83,
+      "title": "Historia de la Filosof\u00eda ",
+      "author": "Mar\u00edas, Juli\u00e1n",
+      "isbn": "9788491044307",
+      "publisher_house": "Alianza Editorial ",
+      "year": "2016",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 84,
+      "title": "Historia de las Cruzadas",
+      "author": "Eberhard Mayer, Hans",
+      "isbn": "9788470903625",
+      "publisher_house": "ISTMO, S.A.",
+      "year": "2001",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 85,
+      "title": "Niels Lyhne ",
+      "author": "Peter Jacobsen, Jens",
+      "isbn": "9788496136021",
+      "publisher_house": "Acantilado",
+      "year": "2003",
+      "quantity": 1,
+      "available": 1
+    },
+    {
+      "id": 86,
+      "title": "Maldoror and Poems",
+      "author": "LAUTR\u00c9MONT",
+      "isbn": "9780140443424",
+      "publisher_house": "Penguin Classics",
+      "year": "1978",
+      "quantity": 1,
+      "available": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Astaroth ",
+      "email": "juanedgarpastor@gmail.com",
+      "membership_type": "premium",
+      "borrowed_books": []
+    }
+  ],
+  "transactions": [
+    {
+      "timestamp": "2025-08-11 23:29:57",
+      "action": "ADD_USER",
+      "details": "Registered user Astaroth "
+    },
+    {
+      "timestamp": "2025-08-11 23:32:40",
+      "action": "ADD_BOOK",
+      "details": "Added 'Dead Souls' by G\u00f3gol"
+    },
+    {
+      "timestamp": "2025-08-11 23:33:08",
+      "action": "ADD_BOOK",
+      "details": "Added 'Dead souls' by "
+    },
+    {
+      "timestamp": "2025-08-12 11:37:33",
+      "action": "ADD_BOOK",
+      "details": "Added 'Obras Completas, V. Historia 2 Liberalismo mexicano, I: Los or\u00edgenes.' by Jes\u00fas Reyes Heroles "
+    },
+    {
+      "timestamp": "2025-08-12 11:40:19",
+      "action": "ADD_BOOK",
+      "details": "Added 'Obras completas. VI. Historia 3 Liberalismo mexicano, II: La sociedad fluctuante' by Jes\u00fas Reyes Heroles"
+    },
+    {
+      "timestamp": "2025-08-12 11:41:51",
+      "action": "ADD_BOOK",
+      "details": "Added 'Obras completas, VII. Historia 4 Liberalismo mexicano, III: La integraci\u00f3n de las ideas' by Jes\u00fas Reyes Heroles"
+    },
+    {
+      "timestamp": "2025-08-12 11:47:03",
+      "action": "ADD_BOOK",
+      "details": "Added 'Colecci\u00f3n papeles de Kierkegaard: Diarios. Vol. VI, 1844' by Soren, Kierkegaard"
+    },
+    {
+      "timestamp": "2025-08-12 11:48:52",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Busc\u00f3n ' by de Quevedo, Francisco"
+    },
+    {
+      "timestamp": "2025-08-12 11:51:02",
+      "action": "ADD_BOOK",
+      "details": "Added 'Antolog\u00eda Poetica Comentada ' by de Quevedo, Francisco"
+    },
+    {
+      "timestamp": "2025-08-12 11:52:24",
+      "action": "ADD_BOOK",
+      "details": "Added 'Noticias del Imperio ' by Del Paso, Fernando"
+    },
+    {
+      "timestamp": "2025-08-12 11:54:48",
+      "action": "ADD_BOOK",
+      "details": "Added 'Am\u00e9rico Vespucio ' by Zweig, Stefan "
+    },
+    {
+      "timestamp": "2025-08-12 11:55:50",
+      "action": "ADD_BOOK",
+      "details": "Added '2666' by Bola\u00f1o, Roberto"
+    },
+    {
+      "timestamp": "2025-08-12 11:56:44",
+      "action": "ADD_BOOK",
+      "details": "Added 'Cuentos Completos' by Bola\u00f1o, Roberto"
+    },
+    {
+      "timestamp": "2025-08-12 11:57:58",
+      "action": "ADD_BOOK",
+      "details": "Added 'Amor L\u00edquido ' by Bauman, Zygmunt "
+    },
+    {
+      "timestamp": "2025-08-12 11:59:15",
+      "action": "ADD_BOOK",
+      "details": "Added 'Popol Vuh ' by Recions, Adrian"
+    },
+    {
+      "timestamp": "2025-08-12 12:01:06",
+      "action": "ADD_BOOK",
+      "details": "Added 'Canek' by Abreu Gomez, Ermilio "
+    },
+    {
+      "timestamp": "2025-08-12 12:02:09",
+      "action": "ADD_BOOK",
+      "details": "Added 'Dos Teor\u00edas de la Moralidad ' by Hampshire, Stuart "
+    },
+    {
+      "timestamp": "2025-08-12 12:04:07",
+      "action": "ADD_BOOK",
+      "details": "Added 'El libro de los libros de Chilam Balam ' by Barrera V\u00e1zquez, Alfredo. Rend\u00f3n, Silvia. "
+    },
+    {
+      "timestamp": "2025-08-12 12:09:00",
+      "action": "ADD_BOOK",
+      "details": "Added 'Historia Verdadera de la Conquista de la Nueva Espa\u00f1a, Vol. I & II' by D\u00edaz Castillo, Bernal"
+    },
+    {
+      "timestamp": "2025-08-12 12:10:50",
+      "action": "ADD_BOOK",
+      "details": "Added 'Los mercaderes y el capitalismo en la ciudad de M\u00e9xico: 1759 - 1778' by Bochart De Monero, Christina Renate"
+    },
+    {
+      "timestamp": "2025-08-12 12:12:51",
+      "action": "ADD_BOOK",
+      "details": "Added 'La N\u00e1usea ' by Jean- Paul Sartre "
+    },
+    {
+      "timestamp": "2025-08-12 12:14:25",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Muro' by Jean-Paul Sartre "
+    },
+    {
+      "timestamp": "2025-08-12 12:16:14",
+      "action": "ADD_BOOK",
+      "details": "Added 'Guerra y Paz' by Leon Tolstoi"
+    },
+    {
+      "timestamp": "2025-08-12 12:18:03",
+      "action": "ADD_BOOK",
+      "details": "Added 'Por el ojo de una Aguja' by Brown, Peter "
+    },
+    {
+      "timestamp": "2025-08-12 12:20:33",
+      "action": "ADD_BOOK",
+      "details": "Added 'Anna Karenina' by Leon Tolstoi "
+    },
+    {
+      "timestamp": "2025-08-12 12:21:57",
+      "action": "ADD_BOOK",
+      "details": "Added 'El mundo de Atenas' by Canfora, Luciano "
+    },
+    {
+      "timestamp": "2025-08-12 12:23:09",
+      "action": "ADD_BOOK",
+      "details": "Added 'La \u00faltima frontera' by Fast, Howard"
+    },
+    {
+      "timestamp": "2025-08-12 12:23:54",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Camino de la Vida' by Leon Tolstoi"
+    },
+    {
+      "timestamp": "2025-08-12 12:25:36",
+      "action": "ADD_BOOK",
+      "details": "Added 'Jhonny el Tuerto: Una historia de la Independencia Estadounidense ' by Charyn, Jerome "
+    },
+    {
+      "timestamp": "2025-08-12 12:26:42",
+      "action": "ADD_BOOK",
+      "details": "Added 'La Democracia en Am\u00e9rica' by De Tocqueville, Alexis"
+    },
+    {
+      "timestamp": "2025-08-12 12:29:15",
+      "action": "ADD_BOOK",
+      "details": "Added 'Soluciones a los problemas de la deuda de los pa\u00edses en desarrollo ' by Dornbusch, Ruudiger, Jhon H. Makin y David Zlowe (comps.)"
+    },
+    {
+      "timestamp": "2025-08-12 12:32:12",
+      "action": "ADD_BOOK",
+      "details": "Added 'Historia de la biogeograf\u00eda, I. El periodo preevolutivo' by Papavero, Nelson, Dante Martins Teixeira, Jorge Llorente Bousquets y Alfredo Bueno"
+    },
+    {
+      "timestamp": "2025-08-12 12:33:55",
+      "action": "ADD_BOOK",
+      "details": "Added 'Atlas Historico Mundial (I): De los Origenes a la Revoluci\u00f3n Francesa' by Kinder, Hermann "
+    },
+    {
+      "timestamp": "2025-08-12 12:53:23",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Desafio de la Austeridad. Pobreza y Desigualdad en la Am\u00e9rica Latina' by Lustig, Nora"
+    },
+    {
+      "timestamp": "2025-08-12 12:54:41",
+      "action": "ADD_BOOK",
+      "details": "Added 'Vlady de la Revoluci\u00f3n al Renacimiento' by RENS JEAN GUY"
+    },
+    {
+      "timestamp": "2025-08-12 12:55:27",
+      "action": "ADD_BOOK",
+      "details": "Added 'Los Miserables ' by Victor Hugo"
+    },
+    {
+      "timestamp": "2025-08-12 12:57:01",
+      "action": "ADD_BOOK",
+      "details": "Added 'El existencialismo es un humanismo' by Jean-Paul Sartre "
+    },
+    {
+      "timestamp": "2025-08-12 12:58:53",
+      "action": "ADD_BOOK",
+      "details": "Added 'Filosf\u00eda de la historia ' by Kant, Immanuel "
+    },
+    {
+      "timestamp": "2025-08-12 13:00:46",
+      "action": "ADD_BOOK",
+      "details": "Added 'Conversaciones con Goethe ' by Eckermann, Johann Peter "
+    },
+    {
+      "timestamp": "2025-08-12 13:01:42",
+      "action": "ADD_BOOK",
+      "details": "Added 'Mar\u00eda Antonieta ' by Zweig, Stefan "
+    },
+    {
+      "timestamp": "2025-08-12 13:03:59",
+      "action": "ADD_BOOK",
+      "details": "Added 'Las Ciencias de la Cultura ' by Cassirer, Ernst"
+    },
+    {
+      "timestamp": "2025-08-12 13:05:48",
+      "action": "ADD_BOOK",
+      "details": "Added 'Noches Blancas' by Dostoievski, Fi\u00f3dor"
+    },
+    {
+      "timestamp": "2025-08-12 13:06:42",
+      "action": "ADD_BOOK",
+      "details": "Added 'BUCOLICAS' by Virgilio "
+    },
+    {
+      "timestamp": "2025-08-12 13:08:14",
+      "action": "ADD_BOOK",
+      "details": "Added 'Presencias Reales ' by Steiner, George"
+    },
+    {
+      "timestamp": "2025-08-12 13:09:20",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Idiota' by Dostoievski, Fi\u00f3dor"
+    },
+    {
+      "timestamp": "2025-08-12 13:10:47",
+      "action": "ADD_BOOK",
+      "details": "Added 'Los Or\u00edgenes del Totalitarismo ' by Arendt, Hannah"
+    },
+    {
+      "timestamp": "2025-08-12 13:14:35",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Misterio de la Orden de los Cosmopolitas' by Wieland, Christoph Mart\u00edn"
+    },
+    {
+      "timestamp": "2025-08-12 13:16:28",
+      "action": "ADD_BOOK",
+      "details": "Added 'Obras escogidas de Lord Byron ' by Lord Byron "
+    },
+    {
+      "timestamp": "2025-08-12 13:18:13",
+      "action": "ADD_BOOK",
+      "details": "Added 'La Revoluci\u00f3n Rusa' by Figes, Orlando"
+    },
+    {
+      "timestamp": "2025-08-12 13:19:30",
+      "action": "ADD_BOOK",
+      "details": "Added 'Rey Lear' by Shakespeare, William"
+    },
+    {
+      "timestamp": "2025-08-12 13:21:11",
+      "action": "ADD_BOOK",
+      "details": "Added 'Tercer Reich y los Jud\u00edos, el 1933-1939' by Friedlander, Saul"
+    },
+    {
+      "timestamp": "2025-08-12 13:23:11",
+      "action": "ADD_BOOK",
+      "details": "Added 'Lecciones sobre la Historia de la Filosof\u00eda, I ' by G. W. F. Hegel "
+    },
+    {
+      "timestamp": "2025-08-12 13:24:26",
+      "action": "ADD_BOOK",
+      "details": "Added 'Filosof\u00eda de la Liberaci\u00f3n ' by Dussel, Enrique "
+    },
+    {
+      "timestamp": "2025-08-12 13:25:37",
+      "action": "ADD_BOOK",
+      "details": "Added 'Filosof\u00eda de las formas simb\u00f3licas, I: El lenguaje ' by Cassirer, Ernst "
+    },
+    {
+      "timestamp": "2025-08-12 13:26:51",
+      "action": "ADD_BOOK",
+      "details": "Added 'Alejandro Magno' by Lane Fox, Robin"
+    },
+    {
+      "timestamp": "2025-08-12 13:28:00",
+      "action": "ADD_BOOK",
+      "details": "Added 'Las desventajas del Joven Werther' by Goethe, Johann Wolfgang Von"
+    },
+    {
+      "timestamp": "2025-08-12 13:28:42",
+      "action": "ADD_BOOK",
+      "details": "Added 'Metamorfosis ' by Ovidio "
+    },
+    {
+      "timestamp": "2025-08-12 13:29:32",
+      "action": "ADD_BOOK",
+      "details": "Added 'Fausto' by Goethe "
+    },
+    {
+      "timestamp": "2025-08-12 13:30:32",
+      "action": "ADD_BOOK",
+      "details": "Added 'Cartas a un joven Poeta' by Rilke, Rainer Maria "
+    },
+    {
+      "timestamp": "2025-08-12 13:31:28",
+      "action": "ADD_BOOK",
+      "details": "Added 'Crimen y Castigo ' by Dostoievski, Fi\u00f3dor"
+    },
+    {
+      "timestamp": "2025-08-12 13:32:38",
+      "action": "ADD_BOOK",
+      "details": "Added 'La Biblioteca perdida' by Canfora, Luciano"
+    },
+    {
+      "timestamp": "2025-08-12 13:34:39",
+      "action": "ADD_BOOK",
+      "details": "Added 'Mes\u00edas, cruzadas, utop\u00edas: El jude-cristianismo en las sociedades ib\u00e9ricas ' by Lafaye, Jacques"
+    },
+    {
+      "timestamp": "2025-08-12 13:36:05",
+      "action": "ADD_BOOK",
+      "details": "Added 'Las Cruzadas vistas por los \u00c1rabes' by Maalouf, Amin "
+    },
+    {
+      "timestamp": "2025-08-12 13:37:02",
+      "action": "ADD_BOOK",
+      "details": "Added 'Cr\u00edtica de la raz\u00f3n pr\u00e1ctica' by Kant, Immanuel "
+    },
+    {
+      "timestamp": "2025-08-12 13:38:08",
+      "action": "ADD_BOOK",
+      "details": "Added 'Observaciones sobre el sentimiento de lo Bello y lo Sublime' by Kant, Immanuel "
+    },
+    {
+      "timestamp": "2025-08-12 13:39:13",
+      "action": "ADD_BOOK",
+      "details": "Added 'Guerra y Paz Vol. I & II' by Leon Tolstoi "
+    },
+    {
+      "timestamp": "2025-08-12 13:40:47",
+      "action": "ADD_BOOK",
+      "details": "Added 'Papado, cruzadas y \u00f3rdenes militares. Siglos XI-XIII' by Garcia Guijaro, Luis"
+    },
+    {
+      "timestamp": "2025-08-12 13:42:14",
+      "action": "ADD_BOOK",
+      "details": "Added 'Goethe y el despojo. Los costos del progreso, el Sur, la incertidumbre, los demonios...' by Bartra, Armando "
+    },
+    {
+      "timestamp": "2025-08-12 13:43:17",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Capital en el siglo XXI ' by Piketty, Thomas"
+    },
+    {
+      "timestamp": "2025-08-12 13:46:11",
+      "action": "ADD_BOOK",
+      "details": "Added 'Los Aristocratas 2' by Tacconi Ferdinando "
+    },
+    {
+      "timestamp": "2025-08-12 15:33:32",
+      "action": "ADD_BOOK",
+      "details": "Added 'Una mirada documental ' by Moya, Rodrigo "
+    },
+    {
+      "timestamp": "2025-08-12 15:35:47",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Comisario Spada ' by Gianni de Luca, GianLuigi Gonano "
+    },
+    {
+      "timestamp": "2025-08-12 15:37:06",
+      "action": "ADD_BOOK",
+      "details": "Added 'Garoden' by Jiro Taniguchi"
+    },
+    {
+      "timestamp": "2025-08-12 15:39:42",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Cid. Libro 2: Las Cortes de Le\u00f3n' by Hernandez Palacios, A. "
+    },
+    {
+      "timestamp": "2025-08-12 15:41:03",
+      "action": "ADD_BOOK",
+      "details": "Added 'Robin Hood II' by Angus, Donald"
+    },
+    {
+      "timestamp": "2025-08-12 15:42:07",
+      "action": "ADD_BOOK",
+      "details": "Added 'Robin Hood, el proscrito ' by Angus, Donald "
+    },
+    {
+      "timestamp": "2025-08-12 15:43:08",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Hombre del rey. Robin Hood III' by Angus, Donald"
+    },
+    {
+      "timestamp": "2025-08-12 15:45:27",
+      "action": "ADD_BOOK",
+      "details": "Added 'EL retrato de Jorge Cuesta ' by Volkow, Veronica"
+    },
+    {
+      "timestamp": "2025-08-12 16:07:48",
+      "action": "ADD_BOOK",
+      "details": "Added 'Narraciones Completas ' by Alexander Pushkin "
+    },
+    {
+      "timestamp": "2025-08-12 16:09:31",
+      "action": "ADD_BOOK",
+      "details": "Added 'Memorias del Subsuelo ' by Dostoievski, Fi\u00f3dor "
+    },
+    {
+      "timestamp": "2025-08-12 16:11:14",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Pensamiento Aleman de Kant a Heidegger. Tomo I. 2da. ED.' by Colomer, Eusebi "
+    },
+    {
+      "timestamp": "2025-08-12 16:13:38",
+      "action": "ADD_BOOK",
+      "details": "Added 'El Idealismo: FICHTE, SCHELLING Y HEGEL. 2da. ED. TOMO II' by Colomer, Eusebi"
+    },
+    {
+      "timestamp": "2025-08-12 16:15:11",
+      "action": "ADD_BOOK",
+      "details": "Added 'Vidas sujetas a escrutinio: De Socrates a Nietzsche' by Miller, James"
+    },
+    {
+      "timestamp": "2025-08-12 16:16:11",
+      "action": "ADD_BOOK",
+      "details": "Added 'Historia de la Filosof\u00eda ' by Mar\u00edas, Juli\u00e1n"
+    },
+    {
+      "timestamp": "2025-08-12 16:17:28",
+      "action": "ADD_BOOK",
+      "details": "Added 'Historia de las Cruzadas' by Eberhard Mayer, Hans"
+    },
+    {
+      "timestamp": "2025-08-12 16:18:34",
+      "action": "ADD_BOOK",
+      "details": "Added 'Niels Lyhne ' by Peter Jacobsen, Jens"
+    },
+    {
+      "timestamp": "2025-08-12 16:56:03",
+      "action": "BOOK/ SCROLL ENTOMBED",
+      "details": "The wisdom of 'Maldoror and Poems' now graces our halls..."
+    }
+  ],
+  "next_book_id": 87,
+  "next_user_id": 2
+}
